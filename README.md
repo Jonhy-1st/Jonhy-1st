@@ -1,8 +1,7 @@
-## Hi there 👋
-# 👋 Hola, soy Jonhy
+# Hola, soy Jonhy
 
 🎓 Estudiante de Desarrollo de Software Multiplataforma  
-💻 Interesado en el desarrollo de aplicaciones web y en mejorar mis habilidades como programador junior  
+💻 Interesado en el desarrollo de aplicaciones web y en mejorar mis habilidades como programador.
 
 ---
 
@@ -60,7 +59,7 @@ Actualmente me encuentro fortaleciendo mis conocimientos en programación y cons
 
 ## 📫 Contacto
 
-- 📧 Email: 240196@utxicotepec.edu.mx  
+- 📧 Email: 240558@utxicotepec.edu.mx  
 
 ---
 
