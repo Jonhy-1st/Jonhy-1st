@@ -1,20 +1,20 @@
-# Hola, soy Jonhy
+# 👋 Hola, soy Jonhy
 
-🎓 Estudiante de Desarrollo de Software Multiplataforma  
-💻 Interesado en el desarrollo de aplicaciones web y en mejorar mis habilidades como programador.
+Estudiante de Desarrollo de Software Multiplataforma  
+Interesado en el desarrollo de aplicaciones web y en fortalecer mis habilidades como programador. 
 
 ---
 
-## 🧑‍💻 Perfil
+## Sobre mí
 
 Soy estudiante de desarrollo de software con enfoque en la creación de aplicaciones web.  
-Trabajo con tecnologías básicas del front-end y bases de datos, y utilizo Git para organizar mis proyectos y aprender buenas prácticas de desarrollo.
+Trabajo con tecnologías front-end y bases de datos relacionales, utilizando Git para organizar mis proyectos y aplicar buenas prácticas de desarrollo.
 
-Actualmente me encuentro fortaleciendo mis conocimientos en programación y construyendo proyectos académicos y personales.
+Actualmente desarrollo proyectos académicos y personales con el objetivo de mejorar mis conocimientos técnicos y adquirir experiencia práctica.
 
 ---
 
-## ⚙️ Conocimientos técnicos
+## Conocimientos técnicos
 
 - Desarrollo web con HTML, CSS y JavaScript  
 - Programación orientada a objetos (bases en Java)  
@@ -37,30 +37,32 @@ Actualmente me encuentro fortaleciendo mis conocimientos en programación y cons
 
 ---
 
+## Proyectos
+
+- Proyectos académicos enfocados en desarrollo web  
+- Prácticas de programación con JavaScript y bases de datos  
+- Ejercicios para fortalecer la lógica de programación  
+
+---
+
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jonhy-1st&theme=dracula" alt="Estadísticas de Jonhy-1st" />
 </p>
 
-## 💻 Lenguajes más utilizados
+## Lenguajes más utilizados
 
 <p align="center">
   <img src="https://github-readme-stats-tau-six.vercel.app/api/top-langs/?username=Jonhy-1st&layout=compact&theme=dracula" alt="Lenguajes de Jonhy-1st" />
-</p>
-
-## 🔥 Actividad en GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonhy-1st&theme=dracula" alt="Racha de contribuciones" />
 </p>
 
 ---
 
 ## 📫 Contacto
 
-- 📧 Email: 240558@utxicotepec.edu.mx  
+- Email: 240558@utxicotepec.edu.mx  
 
 ---
 
-⭐ Interesado en seguir aprendiendo, participar en proyectos y fortalecer mi perfil como desarrollador junior.
+Interesado en seguir aprendiendo, participar en proyectos y fortalecer mi perfil como desarrollador.
